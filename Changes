@@ -1,5 +1,5 @@
-Revision history for {{$dist->name}}
+Revision history for Switch-Reftype
 
-{{$NEXT}}
+0.001     2015-11-02 20:15:47+01:00 Europe/Berlin
     - Initial release.
     
